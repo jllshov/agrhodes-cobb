@@ -8,6 +8,10 @@
     {
       "source": "/feedback",
       "destination": "/feedback.html"
+    },
+    {
+      "source": "/ticket",
+      "destination": "/ticket.html"
     }
   ]
 }
